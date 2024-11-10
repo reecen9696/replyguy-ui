@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "email": "johndoe@example.com",
+  "password": "hashedpassword123",
+  "credits": 100,
+  "prompt": "I'm a shit coin project on Solana talking shit about other projects on Solana."
+}
